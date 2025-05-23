@@ -26,9 +26,7 @@ A pesar de que estos cuatro conjuntos comparten características estadísticas i
 
 ### Visualización del Cuarteto de Anscombe
 
-![Anscombe Quartet - Gráfica](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Anscombe.svg/650px-Anscombe.svg.png)
-
-> **Nota:** Imagen obtenida de Wikipedia.
+![Anscombe Quartet - Gráfica](./dataset.png)
 
 ---
 
