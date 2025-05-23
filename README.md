@@ -38,7 +38,11 @@ Anscombe, F. J. (1973). *Graphs in Statistical Analysis*. The American Statistic
 
 ### Estructura del proyecto
 #### `data`
+En este directorio se encuentran los datasets utilizados en la práctica:
+- `df_anscombe.csv`
+- `datasaurus.csv`
 
 #### `R`
-
-#### Regresión Lineal
+Esta carpeta contiene los archivos realizados en clase y la vista del mismo:
+- `Datasaurus 2025.Rmd`
+- `Datasaurus-2025.html`
